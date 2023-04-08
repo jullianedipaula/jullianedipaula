@@ -1,6 +1,6 @@
-### Olá, sou Julliane Di Paula!
+### Hi, I am Julliane Di Paula!
 
-- 👩‍💻 Graduanda em Ciências da Computação
+- 👩‍💻 Computer Science Student 
 <div align="center">
   <a href="https://github.com/jullianedipaula">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jullianedipaula&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
