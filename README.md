@@ -4,6 +4,12 @@
 - Full Stack Developer with a focus on React, Node.js, and Python. Looking forward to contributing to real and impactful software projects and exploring the AWS ecosystem.
 
 <div align="center">
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jullianedipaula&theme=cobalt&mode=weekly" alt="GitHub Streak" /></a>
+</div>
+
+---
+<div align="left">
+<h3>Languages and Frameworks that I use<h3/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="30" title="TypeScript" alt="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="30" title="React" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30" title="JavaScript" alt="JavaScript" />
