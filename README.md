@@ -4,7 +4,15 @@
 - Full Stack Developer with a focus on React, Node.js, and Python. Looking forward to contributing to real and impactful software projects and exploring the AWS ecosystem.
 
 <div align="center">
- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jullianedipaula&theme=cobalt&mode=weekly" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jullianedipaula&theme=cobalt&mode=weekly" alt="GitHub Streak" /></a>
+</div>
+
+<br/>
+
+<div  align="center">
+ <img height="180em" src="https://github-readme-stats-mu-nine-38.vercel.app/api?username=jullianedipaula&theme=cobalt&show_icons=true&bg_color=0d1117&border_color=ffffff" alt="GitHub Stats" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="180em" src="https://github-readme-stats-mu-nine-38.vercel.app/api/top-langs/?username=jullianedipaula&theme=cobalt&layout=compact&bg_color=0d1117&border_color=ffffff" alt="Top Languages" />
 </div>
 
 ---
