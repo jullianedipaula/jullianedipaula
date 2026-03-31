@@ -10,9 +10,9 @@
 <br/>
 
 <div  align="center">
- <img height="180em" src="https://github-readme-stats-mu-nine-38.vercel.app/api?username=jullianedipaula&theme=cobalt&show_icons=true&bg_color=0d1117&border_color=ffffff" alt="GitHub Stats" />
+ <img height="180em" src="https://github-readme-stats-mu-nine-38.vercel.app/api?username=jullianedipaula&theme=cobalt&show_icons=true&bg_color=00000000&border_color=ffffff" alt="GitHub Stats" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats-mu-nine-38.vercel.app/api/top-langs/?username=jullianedipaula&theme=cobalt&layout=compact&bg_color=0d1117&border_color=ffffff" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats-mu-nine-38.vercel.app/api/top-langs/?username=jullianedipaula&theme=cobalt&layout=compact&bg_color=00000000&border_color=ffffff" alt="Top Languages" />
 </div>
 
 ---
